@@ -1,3 +1,0 @@
-Oi, eu sou o goku!                                  
-No capitulo de hoje nós viemos ver GIT
-Veremos também a ferramenta Github.
